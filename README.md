@@ -1,6 +1,10 @@
 # Starter
 
-A minimal Python starter project using uv and Make.
+A minimal Python starter project using uv and Make. This project can be quite useful to quickly achieve a local Python development environment. 
+
+You just need to install [uv](https://docs.astral.sh/uv/getting-started/installation/) and the usual dev tools like `make`.
+
+Then add the dependencies you need in the [pyproject.toml](pyproject.toml)
 
 ## Requirements
 
