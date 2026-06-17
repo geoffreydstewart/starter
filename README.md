@@ -7,8 +7,6 @@ You just need to install [uv](https://docs.astral.sh/uv/getting-started/installa
 Then add the dependencies you need in the [pyproject.toml](pyproject.toml)
 
 ## Requirements
-
-- Python 3.12
 - [uv](https://docs.astral.sh/uv/)
 
 ## Setup
